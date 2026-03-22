@@ -77,6 +77,17 @@ OPENROUTER_API_KEY=your_api_key_here
 
 ---
 
+## 🔐 Important Note
+
+This project requires API keys and credentials which are not included for security reasons.
+
+To run this project:
+
+* Add your OpenRouter API key in `.env`
+* Add your Gmail API `credentials.json` from Google Cloud Console
+
+---
+
 ## 📊 Google Sheet Format
 
 | Input Text | Summary | Tags | Caption | Status |
